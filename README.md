@@ -1,10 +1,10 @@
 # Zero-and-Few-Shot-response
 
-Open AI doc
-https://platform.openai.com/docs/api-reference/debugging-requests
+Open AI doc:
+<br />https://platform.openai.com/docs/api-reference/debugging-requests
 
-Platform
-google colab or jupyter notebook
+Platform:
+<br />google colab or jupyter notebook
 
 Few-shot prompt:
 
